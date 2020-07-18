@@ -388,7 +388,7 @@ position: relative;
     background: #202835;
     color: #E1E1E1;
 
-    padding: 5px 33.5px;
+    padding: 10px 65px;
     font-weight: 200;
     font-size: 14px;
     line-height: 20px;
@@ -401,7 +401,6 @@ position: relative;
     color: white;
 }
 
-.button:focus {
-    padding: 10px 65px;
-    box-shadow: 3px 3px 3px 3px black;
-}
+/* .button:focus {
+    padding: 5px 33.5px;
+} */
